@@ -17,10 +17,17 @@ Engineering, University of Michigan, Fall 2026.
   (`peanuts`, `elephant`, `goldfish`, `egm-implement`, `mean-review`),
   with a walkthrough of each one and a page on how a skill is put together.
   Start with `egm/README.md`.
+- `learning-path/` is a self-study guide over all of the above: eight
+  modules in order, each with learning objectives, the decks and demos to
+  read, worked examples from five real-world settings, exercises on this
+  repo's demos, and self-check questions, plus a capstone. Start with
+  `learning-path/README.md`.
 
 The `slides.md` is the Slidev source the deck was built from. It is here
 so you can read, search, or reuse the content. It expects a theme that
-lives outside this repo, so it will not build as-is.
+lives outside this repo, so it will not build as-is. Lab02 was published as
+a PDF only; its `slides.md` is the slide text recovered from that PDF, with
+no speaker notes.
 
 `git clone --depth 1` is the one you want if you only came for a deck or a
 demo. Most of this repo's history is compiled slides.
